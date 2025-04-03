@@ -1,0 +1,4 @@
+KEY_PATH = ./certificates/somerandomid-private.pem.key
+CERT_PATH = ./certificates/somerandomid-certificate.pem.crt
+CA_PATH = ./certificates/AmazonRootCA1.pem
+AWS_IOT_ENDPOINT = somerandomid-ats.iot.us-east-1.amazonaws.com
